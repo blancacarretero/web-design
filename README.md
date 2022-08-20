@@ -1,4 +1,4 @@
-# web-design
+# Python Weather APIs Website
 
 Created a website by using visualizations that were created in my [Python-APIs analysis](https://github.com/blancacarretero/python-api).
 
