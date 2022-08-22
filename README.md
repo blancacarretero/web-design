@@ -1,4 +1,4 @@
-# Python Weather APIs Website
+# Python Weather APIs Website :world_map:
 
 Created a website by using visualizations that were created in my [Python-APIs analysis](https://github.com/blancacarretero/python-api).
 
